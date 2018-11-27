@@ -1,1 +1,1 @@
-Project Euler solutions in go
+Project Euler (https://projecteuler.net/) solutions in Go
